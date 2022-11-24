@@ -1,0 +1,15 @@
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.csproj.AssemblyReference.cache
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.AssemblyInfoInputs.cache
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.AssemblyInfo.cs
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.csproj.CoreCompileInputs.cache
+D:\Обучение\Seminars_2\primer1\bin\Debug\net6.0\primer1.exe
+D:\Обучение\Seminars_2\primer1\bin\Debug\net6.0\primer1.deps.json
+D:\Обучение\Seminars_2\primer1\bin\Debug\net6.0\primer1.runtimeconfig.json
+D:\Обучение\Seminars_2\primer1\bin\Debug\net6.0\primer1.dll
+D:\Обучение\Seminars_2\primer1\bin\Debug\net6.0\primer1.pdb
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.dll
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\refint\primer1.dll
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.pdb
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\primer1.genruntimeconfig.cache
+D:\Обучение\Seminars_2\primer1\obj\Debug\net6.0\ref\primer1.dll
